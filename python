@@ -1,0 +1,3 @@
+print(input("WHAT IS YOUR NAME?"))
+print(input("what is your age?"))
+print(input("thanks"))
